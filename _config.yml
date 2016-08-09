@@ -1,4 +1,3 @@
-layout_spectrum: 0.9423887766897678
 typography_spectrum: 0.2203459159936756
 color:
   brandStrength: 0.9338242004159838
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9423887766897678
 name: SustainableTimesIndia
+title: Read all about the latest Sustainable news from India!
