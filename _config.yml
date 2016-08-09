@@ -1,0 +1,14 @@
+layout_spectrum: 0.9423887766897678
+typography_spectrum: 0.2203459159936756
+color:
+  brandStrength: 0.9338242004159838
+  lightness: 0.8826704274397343
+  saturation: 0.6151215273421258
+  rhythmicContrast: 0.7176824936177582
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: SustainableTimesIndia
